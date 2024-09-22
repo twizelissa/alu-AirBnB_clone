@@ -21,6 +21,7 @@
     display: flex;
     justify-content: center;
 }
+
 .places article h2 {
     font-size: 30px;
 }
